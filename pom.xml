@@ -5,7 +5,7 @@
     <packaging>jar</packaging>
     <groupId>com.github.chibyhq</groupId>
     <artifactId>blockly-homie</artifactId>
-    <version>0.1</version>
+    <version>0.2-SNAPSHOT</version>
     <name>Blockly Homie convention / MQTT block library</name>
     <description>WebJar for a Blockly Homie convention / MQTT block library</description>
     <url>http://github.com/chibyhq/blockly-homie</url>
